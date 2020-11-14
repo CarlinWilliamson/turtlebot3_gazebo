@@ -92,6 +92,14 @@
       <uri>model://turtlebot3_selfdriving/stop</uri>
       <pose>-1.8 1.95 0.2 0 1.57 1.57</pose>
     </include>
+    <include>
+      <uri>model://turtlebot3_selfdriving/stop</uri>
+      <pose>-2 -0.65 0.2 3.14 1.57 0</pose>
+    </include>
+    <include>
+      <uri>model://turtlebot3_selfdriving/stop</uri>
+      <pose>-1.3 -2.1 0.2 3.14 1.57 1.57</pose>
+    </include>
     <model name='buildings'>
       <static>true</static>
       <link name='wall_link'>
